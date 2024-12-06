@@ -1,0 +1,16 @@
+{
+  "title": "Our Services Include",
+  "text": "We provide comprehensive software solutions, including custom software development, product design, and project management support. Our expertise spans mobile/web applications, integration services, and innovative technology solutions.",
+  "section": [
+    {
+      "title": "Why Choose Us?",
+      "content": "We offer full support, from brainstorming and planning to coding, testing, and deployment.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Tailored Solutions",
+      "content": "Our team works closely with you to ensure your project is innovative, impactful, and meets your specific requirements.",
+      "icon": "notes.svg"
+    }
+  ]
+}

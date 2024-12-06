@@ -1,0 +1,13 @@
+{
+  "title": "Your Software Solutions Partner",
+  "text": "We specialize in delivering innovative software solutions tailored to your needs. Whether you're an engineering student or a business looking for custom software, we bring your ideas to life!",
+  "button": [
+    {
+      "title": "Explore Our Solutions"
+    },
+    {
+      "title": "Learn More",
+      "color": "#fff"
+    }
+  ]
+}
